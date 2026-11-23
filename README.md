@@ -1,10 +1,10 @@
 ## Full-Stack Developer
 
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react)
+### Sprachen
+![Sprachen](https://skillicons.dev/icons?i=lua,js,ts,cpp,cs,html,css)
 
-### Backend & Scripting
-![Backend](https://skillicons.dev/icons?i=lua,js,ts,cpp,cs)
+### Frameworks
+![Frameworks](https://skillicons.dev/icons?i=react)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
